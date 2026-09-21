@@ -24,7 +24,7 @@ ur_drawing launch
 ## Robot và quy ước hệ tọa độ Descartes
 
 -   Robot mặc định: `ur3e`; sử dụng `ur_type:=ur3` để dùng UR3.
--   Planning group: `ur_drawing`.
+-   Planning group: `ur_manipulator`.
 -   Hệ quy chiếu: `base_link`.
 -   Link đầu công tác (end-effector): `tool0`.
 -   Mặt phẳng vẽ: mặt phẳng XY tại độ cao `draw_height`, đơn vị mét;
